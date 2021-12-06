@@ -24,28 +24,28 @@
         }
         timerTick() {
           this.setState({
-            strikes: this.state.strikes + 100,
+            strikes: this.state.strikes + 1,
           });
         }
         componentDidMount() {
-          setInterval(this.timerTick, 1000);
+          setInterval(this.timerTick, 10);
         }
         render() {
-          var counterStyle = {
+          const counterStyle = {
             color: '#66FFFF',
             fontSize: 50,
           };
-          var count = this.state.strikes.toLocaleString();
+          const count = this.state.strikes.toLocaleString();
           return <h1 style={counterStyle}>{count}</h1>;
         }
       }
       class LightningCounterDisplay extends React.Component {
         render() {
-          var commonStyle = {
+          const commonStyle = {
             margin: 0,
             padding: 0,
           };
-          var divStyle = {
+          const divStyle = {
             width: 250,
             textAlign: 'center',
             backgroundColor: '#020202',
@@ -54,7 +54,7 @@
             color: '#999999',
             borderRadius: 10,
           };
-          var textStyles = {
+          const textStyles = {
             emphasis: {
               fontSize: 38,
               ...commonStyle,
@@ -71,9 +71,11 @@
           return (
             <div style={divStyle}>
               <LightningCounter />
-              <h2 style={textStyles.smallEmphasis}>оооо</h2>
-              <h2 style={textStyles.emphasis}>ууу</h2>
-              <p style={textStyles.small}>(нгнгн)</p>
+              <h2 style={textStyles.smallEmphasis}>ударов</h2>
+              <h2 style={textStyles.emphasis}>Молний</h2>
+              <p style={textStyles.small}>
+                (с того момента как ты зашел на эту страницу)
+              </p>
             </div>
           );
         }
