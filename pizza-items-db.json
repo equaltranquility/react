@@ -1,0 +1,183 @@
+[{
+  "category": [
+    0
+  ],
+  "id": 0,
+  "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/ca0730a9b2d6457a899a41765555dc29_760x760.jpeg",
+  "name": "Пицца Микс",
+  "price": 779,
+  "rating": 4,
+  "sizes": [
+    30,
+    35
+  ],
+  "types": [
+    0,
+    1
+  ]
+},
+{
+  "category": [
+    1
+  ],
+  "id": 1,
+  "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/dd4b719911d048e0b05c3e4219880e64_760x760.jpeg",
+  "name": "Двойной цыпленок",
+  "price": 589,
+  "rating": 6,
+  "sizes": [
+    25,
+    30,
+    35
+  ],
+  "types": [
+    1
+  ]
+},
+{
+  "category": [
+    3
+  ],
+  "id": 2,
+  "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/2c7a83e078b44156a7ad774389ed7713_760x760.jpeg",
+  "name": "Диабло",
+  "price": 679,
+  "rating": 4,
+  "sizes": [
+    25,
+    30,
+    35
+  ],
+  "types": [
+    0
+  ]
+},
+{
+  "category": [
+    0
+  ],
+  "id": 3,
+  "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/a2407468a4094e498d258f65bffa4c46_760x760.jpeg",
+  "name": "Аррива!",
+  "price": 599,
+  "rating": 2,
+  "sizes": [
+    25,
+    35
+  ],
+  "types": [
+    1
+  ]
+},
+{
+  "category": [
+    2
+  ],
+  "id": 4,
+  "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/20734006e66d427fb2cbb8fbb595b21e_760x760.jpeg",
+  "name": "Колбаски Барбекю",
+  "price": 599,
+  "rating": 8,
+  "sizes": [
+    25,
+    30,
+    35
+  ],
+  "types": [
+    0,
+    1
+  ]
+},
+{
+  "category": [
+    3
+  ],
+  "id": 5,
+  "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/186dfa8511434e5eae09fc109b5a8498_760x760.jpeg",
+  "name": "Мексиканская",
+  "price": 679,
+  "rating": 2,
+  "sizes": [
+    30,
+    35
+  ],
+  "types": [
+    0
+  ]
+},
+{
+  "category": [
+    0
+  ],
+  "id": 6,
+  "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/51025107de954c6e93034b2fd6931d22_760x760.jpeg",
+  "name": "Супермясная",
+  "price": 779,
+  "rating": 9,
+  "sizes": [
+    25,
+    30,
+    35
+  ],
+  "types": [
+    0,
+    1
+  ]
+},
+{
+  "category": [
+    1
+  ],
+  "id": 7,
+  "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/4749ca7de7e247daa69a685714f06aa3_760x760.jpeg",
+  "name": "Гавайская",
+  "price": 599,
+  "rating": 10,
+  "sizes": [
+    25,
+    30,
+    35
+  ],
+  "types": [
+    0,
+    1
+  ]
+},
+{
+  "category": [
+    0
+  ],
+  "id": 8,
+  "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/67040d5b9c3a42e2a0deb93cca61f1ac_760x760.jpeg",
+  "name": "Фристайло",
+  "price": 599,
+  "rating": 10,
+  "sizes": [
+    25,
+    30,
+    35
+  ],
+  "types": [
+    0,
+    1
+  ]
+},
+{
+  "category": [
+    1
+  ],
+  "id": 9,
+  "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/Pizza/ru-RU/aa85d566-faa8-43aa-9501-03a2c4873075.jpg",
+  "name": "Пицца-пирог",
+  "price": 499,
+  "rating": 7,
+  "sizes": [
+    25,
+    30,
+    35
+  ],
+  "types": [
+    0,
+    1
+  ]
+}]
